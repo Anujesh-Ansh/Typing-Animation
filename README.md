@@ -12,6 +12,10 @@ Typing Animation is a captivating project that showcases a mesmerizing typing an
 
 Experience the magic of dynamic text animation by simply opening the `index.html` file in your web browser. No additional setup required! 🖥️
 
+## Example
+
+
+
 ## Features
 
 - **Dynamic Animation**: Text dynamically transitions between predefined phrases, creating an engaging visual experience.
