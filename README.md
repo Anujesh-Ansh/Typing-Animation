@@ -14,7 +14,7 @@ Experience the magic of dynamic text animation by simply opening the `index.html
 
 ## Example
 
-
+https://github.com/Anujesh-Ansh/Typing-Animation/assets/110138469/f13f6a2e-41a1-45d2-a88f-0c8118f41b6c
 
 ## Features
 
